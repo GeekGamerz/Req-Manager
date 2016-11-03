@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Clash Royale Start</string>
+    <string name="available_cards">Available Cards</string>
+    <string name="current_lvl">Current Level</string>
+    <string name="request_card">\n Request Card</string>
+    <string name="total_gold">Total Gold</string>
+    <string name="current_level">Current Level</string>
+    <string name="arena">Current Arena</string>
+    <string name="gold_require">Gold Require</string>
+    <string name="card_req">Cards Require</string>
+    <string name="total_card">Total Cards</string>
+    <string name="start_progress">Start Progress</string>
+    <string name="select_card_img">Select Card Img</string>
+</resources>
